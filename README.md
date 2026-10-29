@@ -1,0 +1,1 @@
+All in one AI chat bot/ gaming bot. I just coded up a simple ai caht bot, it has a few drop down windows for different voices etc. I plan on making it more advanced as time goes on, as for now it can watch your screen and talk back to you (NUM 8) to start a record, (NUM 8) to end.
